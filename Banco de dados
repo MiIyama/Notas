@@ -1,0 +1,22 @@
+Comando para criar um banco de dados 
+    CREATE DATABASE <nome-do-banco>; 
+Ex:
+    CREATE DATABASE testes;
+
+Para ver todos os bancos de dados existentes no servidor:
+    SHOW DATABASES;
+    
+Selecionar o banco de dados que vai ser usado:
+    USE <nome-do-banco>;
+Ex:
+    USE testes;
+    
+Criar tabela <nome-da-tabela> com campos
+      int - valores numéricos inteiros
+      varchar - conter caracteres
+      char - conter caracteres porem completa os caracteres que faltam do limite de caracteres estipulado 
+
+      AUTO_INCREMENT pode ser utilizado para automatizar um código que sirva de chave primária de uma tabela.
+      PRIMARY KEY define a chave primária da tabela, isto é, o campo que serve como chave da tabela e que não pode ser repetido.
+      NOT NULL define que um determinado campo seja de preenchimento obrigatório.
+
