@@ -45,12 +45,7 @@
 - `Git commit -m “mensagem do commit”`: faz um registro das alterações do código
 
 - `Git log`: mostra os commits do repositório
-
-    
-
- - List item
-
-Git log --oneline:
+    -  `Git log --oneline`:
 
 - `Git diff`: mostra as alterações do último commit
 
