@@ -1,4 +1,3 @@
-# Exemplo DJango #
 # **Comandos CMD** #
 - `pwd`: pasta atual
 
@@ -24,7 +23,7 @@
 
 ----------
 ## **GIT**##
-###**Comandos GIT**###
+### **Comandos GIT** ###
 
 - `Git init`: inicializa um repositório de git
 
@@ -69,7 +68,7 @@ Git log --oneline:
 - `Git merge --continue`: faz a “mescla” de um repositório que contém alterações diferentes das suas
 
 
-###**Erros**###
+### **Erros** ###
 - **fatal**: not a git repository (or any of the parent directories): .git : a pasta não é um repositório de git, é necessário iniciá-lo com “git init”
 
 - **fatal: unable to auto-detect email address**: não foi detectado um email, é necessário configurá-lo com git config user.email (não se esqueça de configurar o nome também)
