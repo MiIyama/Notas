@@ -15,6 +15,9 @@ rm-rf: apagar pasta (exclui permanentemente)
 
 mv: mover arquivos
     mv <nome-do-arquivo> <nome-do-arquivo-novo>: usado para renomear arquivos
+    
+.: atual
+..: anterior
 
 
 
