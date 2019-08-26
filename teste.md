@@ -23,7 +23,7 @@
 
 ----------
 ## **GIT**##
-### **Comandos GIT** ###
+### ** Comandos GIT ** ###
 
 - `Git init`: inicializa um repositório de git
 
