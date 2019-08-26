@@ -9,9 +9,12 @@ mkdir: criar pasta
 
 touch: criar arquivo
 
-rm-rf: apagar arquivo (exclui permanentemente)
+rm: apagar arquivo (exclui permanentemente)
 
-mv: mover arquivos (pode ser usado para renomear arquivos) 
+rm-rf: apagar pasta (exclui permanentemente)
+
+mv: mover arquivos
+    mv <nome-do-arquivo> <nome-do-arquivo-novo>: usado para renomear arquivos
 
 
 
