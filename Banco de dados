@@ -19,4 +19,9 @@ Criar tabela <nome-da-tabela> com campos
       AUTO_INCREMENT pode ser utilizado para automatizar um código que sirva de chave primária de uma tabela.
       PRIMARY KEY define a chave primária da tabela, isto é, o campo que serve como chave da tabela e que não pode ser repetido.
       NOT NULL define que um determinado campo seja de preenchimento obrigatório.
+      
+----------------------------------------------------------------------------------------------------------------------------------------------------
+06/09/19
 
+
+Ao criar uma chave estrangeira eu tenho q ter criado uma tabela com uma chave primaria, para depois eu relacionar a chave estrangeira com a chave primaria da segunda tabela
